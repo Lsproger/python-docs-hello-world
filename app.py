@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Subdomain Takeover by Harishchandra Sabale (simrotion13)"
+    return "Subdomain Takeover by Yury Mikhnavets"
